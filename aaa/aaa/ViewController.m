@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     // 刷卡缴费卡就是看到积分卡萨
+    //00
 }
 
 - (void)didReceiveMemoryWarning {
